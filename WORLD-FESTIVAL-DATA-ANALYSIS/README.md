@@ -103,6 +103,6 @@ It is not meant to reflect real-world statistics or popularity values.
 
 ## 📌 Repository Purpose
 
-This notebook is part of a collection of ** data analysis projects** designed to strengthen core Pandas skills before moving to full-scale data analysis and machine learning projects.
+This notebook is part of a collection of **data analysis projects** designed to strengthen core Pandas skills before moving to full-scale data analysis and machine learning projects.
 
 ---
