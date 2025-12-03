@@ -42,20 +42,14 @@ This project focuses on developing the following skills:
 ### **3. Sorting & Ordering**
 - Sort by single column  
 - Sort by multiple columns  
-- Sort in ascending/descending order  
+- Sort in ascending/descending order   
 
-### **4. Aggregations & Grouping**
-- Count festivals by country  
-- Count festivals by theme  
-- Average popularity per country  
-- Unique values and counts  
-
-### **5. Highlighting Key Insights**
+### **4. Highlighting Key Insights**
 - Most popular festival (`idxmax()`)  
 - Least popular festival  
 - Top 3 and bottom 3 by popularity  
 
-### **6. Data Cleaning & Transformation**
+### **5. Data Cleaning & Transformation**
 - Renaming columns  
 - Creating new columns:
   - popularity categories  
@@ -75,7 +69,7 @@ This analysis contains step-by-step tasks such as:
 - Sort and show top/bottom results  
 - Identify unique festival themes  
 - Add boolean columns  
-- Perform grouped statistical summaries  
+
 
 These tasks help build fluency with real-world Pandas workflows.
 
@@ -94,7 +88,7 @@ These tasks help build fluency with real-world Pandas workflows.
 By completing this project, you will be able to:
 
 - Confidently use Pandas for practical data analysis  
-- Handle real datasets with filtering, sorting, merging, grouping  
+- Handle real datasets with filtering, sorting  
 - Build simple insights like a professional data analyst  
 - Structure a clean data analysis project suitable for a portfolio  
 
