@@ -102,6 +102,7 @@ for cls in [1, 2, 3]:
     print(f"Class {cls} survival percentage: {cls_survival_percentage}%")
 ```
 ---
-**CREDITS**
-This is a subset of the full Titanic dataset for learning purposes.It is a mini Titanic analysis is adapted from a Codedex Python learning exercise.
+## **CREDITS**
+
+This is a subset of the full Titanic dataset for learning purposes.It is a mini Titanic analysis is adapted from a **Codedex** Python learning exercise.
 Dataset subset and exercise are for educational purposes only. I dont own this dataset
