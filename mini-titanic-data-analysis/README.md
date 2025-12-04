@@ -1,4 +1,4 @@
-# Mini Titanic Data Analysis
+# Mini Titanic Data Analysis 🚢🧊
 
 This is a small analysis of a subset of the Titanic dataset (50 passengers).  
 We explore passenger ages, survival rates, and survival percentages by passenger class using **NumPy**.
