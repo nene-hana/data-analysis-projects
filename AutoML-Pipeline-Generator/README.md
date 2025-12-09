@@ -1,7 +1,7 @@
 # Auto ML Pipeline Generator  
 ### Automated Machine Learning Pipeline Builder 
 ---
-## Hackathon / Recognition
+## Hackathon  Recognition
 **This project was submitted to the **Vibe Coding with Gemini 3 Pro Hackathon** (Dec 5–12, 2025), hosted by Google AI Studio**. 
 <img width="1916" height="977" alt="AUTOMLPIPELINEHGEN" src="https://github.com/user-attachments/assets/4865a1c2-a6aa-4aaf-9e6f-1244c217f9b3" />
 
