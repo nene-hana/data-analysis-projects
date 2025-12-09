@@ -1,1 +1,1 @@
-### All project-related images, including UI screenshots, graphs, and demo visuals, are stored in the `images/` folder.
+### All project-related images, including UI screenshots and demo visuals, are stored in the `asset/` folder.
