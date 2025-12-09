@@ -1,0 +1,4 @@
+{
+  "name": "AutoML Pipeline Generator",
+  "description": "An intelligent end-to-end Machine Learning pipeline generator. Upload your dataset, and it automatically analyzes data, selects the best model, and generates ready-to-use Python code."
+}
