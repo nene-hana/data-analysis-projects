@@ -1,7 +1,7 @@
 # World Festivals Dataset 🎋🎆🎊
 (Pandas Beginner Data Analysis)
 
-This project is a beginner-friendly data analysis task using a small, curated **World Festivals Dataset**.  
+This project is a beginner-friendly data analysis task using a small, curated **World Festivals Dataset**..  
 It demonstrates how to use **Pandas** for data exploration, querying, filtering, sorting, manipulation, and generating basic insights.  
 This analysis is designed to build foundational data analysis skills through a realistic and clean dataset that is easy to understand.
 
