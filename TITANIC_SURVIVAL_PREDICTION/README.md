@@ -71,7 +71,7 @@ Key steps in this project:
 
 1. Clone this repository.
 2. Place the Kaggle Titanic dataset (`train.csv`, `test.csv`, `gender_submission.csv`) into the `data/` folder.
-3. Open `titanic_notebook.ipynb` in Jupyter Notebook or Kaggle Notebook.
+3. Open `titanic.ipynb` in Jupyter Notebook or Kaggle Notebook.
 4. Run all code cells sequentially to reproduce the results.
 
 ---
