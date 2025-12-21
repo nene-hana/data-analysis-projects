@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster — Kaggle Tutorial ~70% Kaggle leaderboard accuracy
+# Titanic: Machine Learning from Disaster(2025) — Kaggle Tutorial ~70% Kaggle leaderboard accuracy
 
 ![TitanicGIF](https://github.com/user-attachments/assets/cbc3d5e3-8c5e-43c8-8f63-e70ee202a644)
 ---
